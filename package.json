@@ -1,0 +1,22 @@
+{
+  "name": "minimalist-blockchain",
+  "version": "1.0.0",
+  "description": "Versão simplificada do Blockchain em JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baltazarparra/minimalist-blockchain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baltazarparra/minimalist-blockchain/issues"
+  },
+  "homepage": "https://github.com/baltazarparra/minimalist-blockchain#readme",
+  "devDependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
